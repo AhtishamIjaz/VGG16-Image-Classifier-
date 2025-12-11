@@ -1,0 +1,9 @@
+{
+    "almirah_dataset": 0,
+    "cardboard_box": 1,
+    "chair_dataset": 2,
+    "document_invoice": 3,
+    "fridge_dataset": 4,
+    "table_dataset": 5,
+    "tv_dataset": 6
+}
